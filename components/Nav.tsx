@@ -50,7 +50,7 @@ export const Nav = () => {
           <span>
             <Github className={"size-4"} />
           </span>
-          <span>Star on GitHub</span>
+          <span>Get in Touch</span>
         </Button>
         <Button
           onClick={toggleDark}
