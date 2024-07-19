@@ -17,4 +17,4 @@ Click the button below to deploy this example project with Vercel:
 
 ## Support
 
-If you have questions, require assistance, or wish to engage in discussions pertaining to this starter template,visit andai.co.in
+If you have questions, require assistance, or wish to engage in discussions pertaining to this starter template,visit https://www.andai.co.in
