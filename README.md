@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project features a sample implementation of Hume's [Empathic Voice Interface]
+This project features a sample implementation of Hume's [Empathic Voice Interface] for and ai
 
 ## Project deployment
 
